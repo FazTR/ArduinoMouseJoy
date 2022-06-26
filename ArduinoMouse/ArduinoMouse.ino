@@ -1,9 +1,3 @@
-////////////////////////////////
-// Joystick controlled mouse///
-/// by Shubham Santosh////////
-/////////////////////////////
-
-
 void setup() 
 {
   Serial.begin(9600);
